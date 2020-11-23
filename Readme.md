@@ -1,5 +1,16 @@
 # Intro
-This is the repository for code for the following paper. If you use the tools we've created, please cite our paper!
+This is the repository for code for the following paper:
+```
+@inproceedings{an2020trump,
+  title={An analysis of replies to Trump's tweets},
+  author={An, Zijian and Joseph, Kenneth},
+  booktitle={ICWSM},
+  year={2020}
+}
+```
+
+
+If you use the tools we've created, please cite our paper!
 
 
 # Details
